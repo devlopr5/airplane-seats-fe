@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airplane-seats-fe/static/css/main.a012436f.chunk.css",
+    "main.js": "/airplane-seats-fe/static/js/main.09673d4b.chunk.js",
+    "main.js.map": "/airplane-seats-fe/static/js/main.09673d4b.chunk.js.map",
+    "runtime-main.js": "/airplane-seats-fe/static/js/runtime-main.cafe3a25.js",
+    "runtime-main.js.map": "/airplane-seats-fe/static/js/runtime-main.cafe3a25.js.map",
+    "static/js/2.9cca8c1a.chunk.js": "/airplane-seats-fe/static/js/2.9cca8c1a.chunk.js",
+    "static/js/2.9cca8c1a.chunk.js.map": "/airplane-seats-fe/static/js/2.9cca8c1a.chunk.js.map",
+    "static/js/3.280f94fb.chunk.js": "/airplane-seats-fe/static/js/3.280f94fb.chunk.js",
+    "static/js/3.280f94fb.chunk.js.map": "/airplane-seats-fe/static/js/3.280f94fb.chunk.js.map",
+    "index.html": "/airplane-seats-fe/index.html",
+    "static/css/main.a012436f.chunk.css.map": "/airplane-seats-fe/static/css/main.a012436f.chunk.css.map",
+    "static/js/2.9cca8c1a.chunk.js.LICENSE.txt": "/airplane-seats-fe/static/js/2.9cca8c1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cafe3a25.js",
+    "static/js/2.9cca8c1a.chunk.js",
+    "static/css/main.a012436f.chunk.css",
+    "static/js/main.09673d4b.chunk.js"
+  ]
+}
