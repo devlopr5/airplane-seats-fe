@@ -2,7 +2,7 @@ const aborter = new AbortController();
 
 const fillSeats = async function (rcs , passengers) {
     try {
-		let response = await fetch( `http://localhost:8080/v1/fillSeats`, {
+		let response = await fetch( `https://airplaneseats.herokuapp.com/v1/fillSeats`, {
 			method: "POST",
 			headers: { 'Content-type': 'application/json' },
             body: JSON.stringify({
